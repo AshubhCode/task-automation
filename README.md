@@ -26,7 +26,7 @@ node task_automation.js<br><br>
 
 ## HTML and CSS Implementation<br>
 # Files<br>
-* `index.html`: HTML file with a simple form.<br>
+* `index.html`: HTML file with a simple form.<br> Open index.html file on your browser using live server or live preview.
 * `style.css:` CSS file for styling the form.<br>
   
 # Form Styling<br>
